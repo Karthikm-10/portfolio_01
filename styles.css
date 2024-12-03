@@ -6,7 +6,7 @@
 }
 
 
-@media(min-width:576px) {
+@media(min-width:768px) {
     
     
     body {
@@ -239,7 +239,7 @@
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
 
     body {
         padding: 0%;
